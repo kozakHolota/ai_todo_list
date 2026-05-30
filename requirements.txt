@@ -1,0 +1,12 @@
+# LangChain / LangGraph — AI-агент та інструменти
+langgraph
+langchain
+langchain-core
+langchain-openai
+
+# Валідація даних
+pydantic
+
+# Jupyter — для запуску ноутбука
+jupyter>=1.1.0
+ipykernel>=7.2.0
